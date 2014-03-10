@@ -1,0 +1,2 @@
+Vim in Eclipse
+http://vrapper.sourceforge.net/update-site/stable
