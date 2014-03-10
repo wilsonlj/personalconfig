@@ -1,0 +1,4 @@
+personalconfig
+==============
+
+vimrc, eclipse, ubuntu
